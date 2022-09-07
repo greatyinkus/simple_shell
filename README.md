@@ -1,6 +1,6 @@
 # ALX Simple Shell Team Project
 Cohort 08
-> This is an ALX collaboration project on Shell. We were tasked to create a simple shell that mimics the Bash shell. Our shell shall be called **hsh**
+> This is an ALX collaboration project on Shell. We were tasked to create a simple shell that works like the Bash shell. Our shell shall be called **hsh**
 
 ## Project was completed using
 
@@ -320,15 +320,13 @@ $
 
 ## Authors ##
 
-👤 **JAMES OKEIYI**
+👤 **JOSEPH AIYEGBUSI**
 
-- GitHub: [@jayokeiyi](https://github.com/jayokeiyi)
-- Twitter: [@jayokeiyi](https://twitter.com/jayokeiyi)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/jayokeiyi)
-- Blog: [Personal Blog](https://jamesokeiyi.com/blog)
+- GitHub: [@greatyinkus](https://github.com/greatyinkus)
+- Twitter: [@GrtYinkuS](https://twitter.com/GrtYinkuS)
 
-👤 **EMMANUEL OLORUNMOLU**
+👤 **OLUMIDE OGUNRINDE**
 
-- GitHub: [@techmoji](https://github.com/techmoji)
-- LinkedIn: [LinkedIn](linkedin.com/in/emmanuel-george-aa84a4246)
+- GitHub: [@Olumide](https://github.com/olumide)
+- LinkedIn: [LinkedIn](linkedin.com/in/Olumide)
 
